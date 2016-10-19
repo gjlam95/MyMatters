@@ -52,13 +52,14 @@ table#t01 th {
     <img src="https://s3-eu-west-1.amazonaws.com/cjp-rbi-ptod/wp-content/uploads/sites/8/2015/09/employee-wellbeing-strategy.jpg" style="width:70%;" class="w3-round"><br><br>
     <h4 class="w3-padding-0"><b>MyMatters</b></h4>
   </div>
-  <a href="index.php" class="w3-padding">Home</a>
-  <a href="Code_Login.php" class="w3-padding">Log In</a>
-  <a href="Code_Score.php" class="w3-padding w3-text-teal">Payment</a>
+  <a href="employee.php" class="w3-padding">Home</a>
+  <a href="salary1.php" class="w3-padding w3-text-teal">Salary</a>
+  <a href="medical1.php" class="w3-padding w3-text-teal">Medical Status</a>
+  <a href="redress.php" class="w3-padding w3-text-teal">Redress Channel</a>
+  <a href="contact.php" class="w3-padding w3-text-teal">Contact</a>
   <p><?php
   	if ($_SESSION["in"]) {
   	echo "Welcome " . $prow['name'] . "!, " . "<a href='logout.php'>Logout</a>";
-echo "<a href='Code_Delete.php'>Delete account</a>";
   	}
   ?> </p>
    
