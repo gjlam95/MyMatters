@@ -59,10 +59,9 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h1><b>Home</b></h1>
   </header>
 	<div>
-		<h3>MyMatters Homepage</h3>
-		<h3>Collaboration between Employers, Employees, Medical Professionals, MOM</h3>
-		<h3>Check your records</h3>
-		<h3>Dedicated platform for all your information</h3>
+		<h3>Employer's Homepage</h3>
+		<h3>Update workers' records</h3>
+		<h3>Dedicated platform for all your updates</h3>
 	</div>
 <!-- End page content -->
 </div>
