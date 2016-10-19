@@ -58,9 +58,18 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <span class="w3-opennav w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
     <h1><b>Home</b></h1>
   </header>
-	<div>
-		<iframe src ="http://ourdisclaimer.com/?i=YOUR-WEBSITE-NAME" width="100%" height="4000"></iframe>
-	</div>
+
+	<form method='post'>
+  ID: G12345678H
+
+  Comment:<br />
+  <textarea name='comment' id='comment'></textarea><br />
+
+  <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' />
+
+  <input type='submit' value='Submit' />  
+</form>
+	
 <!-- End page content -->
 </div>
 
