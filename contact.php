@@ -67,16 +67,16 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 	<p>Golden Mile Complex</p>
 	<p>Singapore 199588</p>
 	<p>Phone: +65 6247 7001</p>
-	 <p>Email: info@twc2.org.sg</p>
+	<p>Email: info@twc2.org.sg</p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
      <h3>HealthServe</h3>
       <div class="w3-container w3-white">
-        <p>info@healthserve.org.sg</p>
-	<p>volunteer@healthserve.org.sg</p>
-	<p>Office Tel: +65 6743 9774</p>
-	<p>Fax: +65 6743 6174</p>
+        <p>Geylang Head Office & Clinic</p>
+	<p>1 Lorong 23 Geylang</p>
+	<p>#01-07 Building 4</p>
+	<p>Clinic Tel: +65 9487 1377</p>
       </div>
     </div>
     <div class="w3-third w3-container">
@@ -84,7 +84,28 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <div class="w3-container w3-white">
         <p>2 Lorong 17 Geylang</p>
 	<p>Singapore 388534</p>
-	<p>1800-7-977-977 (toll free)</p>
+	<p>Tel: 1800-7-977-977 (toll free)</p>
+      </div>
+    </div>
+  </div>
+	
+<div class="w3-row-padding">
+    <div class="w3-third w3-container w3-margin-bottom">
+	    <h3>Singapore Medical Council (SMC)</h3>
+      <div class="w3-container w3-white">
+        <p>16 College Road #01-01</p>
+	<p>College of Medicine Building</p>
+	<p>Singapore 169854</p>
+	<p>Tel: (+65) 6506-2102</p>
+      </div>
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom">
+     <h3>Ministry of Manpower (MOM)</h3>
+      <div class="w3-container w3-white">
+        <p>MOM Services Centre</p>
+	<p>1500 Bendemeer Road</p>
+	<p>Singapore 339946</p>
+	<p>Tel: +65 6438 5122</p>
       </div>
     </div>
   </div>
