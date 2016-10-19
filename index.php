@@ -61,6 +61,9 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 		<h3>MyMatters</h3>
 		<h3>Collaboration between Employers, Employees, Medical Professionals, MOM, NGOs</h3>
 		<h3>Dedicated platform for all your needs</h3>
+		<div>
+		<img src="http://1.bp.blogspot.com/-u5pgB8fruCI/VdbZybtj1qI/AAAAAAAABBg/vCW9qCzDAJE/s1600/pic%2B1.png" style="width:60%; height:80%">
+		</div>
 	</div>
 <!-- End page content -->
 </div>
