@@ -81,7 +81,16 @@ table#t01 th {
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
       <div class="w3-container w3-white">
-
+<table>
+	<tr>
+		<td ><span style="font-weight:bold">No.</span></td>
+		<td ><span style="font-weight:bold">Name</span></td>
+		<td ><span style="font-weight:bold">Salary</span></td>
+		<td ><span style="font-weight:bold">Date Entered</span></td>
+		<td ><span style="font-weight:bold">Remarks</span></td>
+		<td ><span style="font-weight:bold">Document</span></td>
+	</tr>
+</table>
       </div>
     </div>
   </div>
