@@ -39,6 +39,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <a href="salary1.php" class="w3-padding">Salary</a>
   <a href="medical1.php" class="w3-padding">Medical Status</a>
   <a href="redress.php" class="w3-padding">Redress Channel</a>
+  <a href="contact.php" class="w3-padding">Contacts</a>
   
   <p><?php
   	if ($_SESSION["in"]) {
