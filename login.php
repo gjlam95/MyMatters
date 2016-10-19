@@ -15,9 +15,14 @@ if($_SESSION["in"])
         $Results = mysql_fetch_assoc($strSQL);
         if(count($Results)>1)
         {
-            $_SESSION["in"]=$Results["id"];
-	    header("Location:employee.php");	
-        }
+	    $_SESSION["in"]=$Results["id"];
+            if ($email=="aceconstruction") {
+	    	header("Location:employer.php");
+	    }
+	    
+	    else {
+                header("Location:employee.php");
+	    }
         else
         {
             $message = "Invalid ID or password!!";
