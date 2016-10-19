@@ -54,9 +54,9 @@ table#t01 th {
   </div>
   <a href="employee.php" class="w3-padding">Home</a>
   <a href="salary1.php" class="w3-padding w3-text-teal">Salary</a>
-  <a href="medical1.php" class="w3-padding w3-text-teal">Medical Status</a>
-  <a href="redress.php" class="w3-padding w3-text-teal">Redress Channel</a>
-  <a href="contact.php" class="w3-padding w3-text-teal">Contact</a>
+  <a href="medical1.php" class="w3-padding">Medical Status</a>
+  <a href="redress.php" class="w3-padding">Redress Channel</a>
+  <a href="contact.php" class="w3-padding">Contact</a>
   <p><?php
   	if ($_SESSION["in"]) {
   	echo "Welcome " . $prow['name'] . "!, " . "<a href='logout.php'>Logout</a>";
