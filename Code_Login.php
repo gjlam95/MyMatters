@@ -16,7 +16,7 @@ if($_SESSION["in"])
         if(count($Results)>1)
         {
             $_SESSION["in"]=$Results["id"];
-	    header("Location:index.php");	
+	    header("Location:employee.php");	
         }
         else
         {
