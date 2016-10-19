@@ -23,6 +23,7 @@ if($_SESSION["in"])
 	    else {
                 header("Location:employee.php");
 	    }
+	}
         else
         {
             $message = "Invalid ID or password!!";
