@@ -80,12 +80,92 @@ table#t01 th {
       <div class="w3-container w3-white">
 <table>
 	<tr>
-		<td ><span style="font-weight:bold">No.</span></td>
-		<td ><span style="font-weight:bold">Name</span></td>
-		<td ><span style="font-weight:bold">Salary</span></td>
-		<td ><span style="font-weight:bold">Date Entered</span></td>
-		<td ><span style="font-weight:bold">Remarks</span></td>
-		<td ><span style="font-weight:bold">Document</span></td>
+		<td><span style="font-weight:bold">No.</span></td>
+		<td><span style="font-weight:bold">Name</span></td>
+		<td><span style="font-weight:bold">Salary</span></td>
+		<td><span style="font-weight:bold">Date Entered</span></td>
+		<td><span style="font-weight:bold">Remarks</span></td>
+		<td><span style="font-weight:bold">Proof</span></td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Syed Muhammad</td>
+		<td>$1,234</td>
+		<td>11-10-2016</td>
+		<td>$234 Overtime(OT) Pay</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Hassan Ismail</td>
+		<td>$984</td>
+		<td>11-10-2016</td>
+		<td>NIL</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Isrudin Hakba</td>
+		<td>$854</td>
+		<td>11-10-2016</td>
+		<td>$100 Overtime(OT) Pay</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Rusok Seid</td>
+		<td>$1,045</td>
+		<td>12-10-2016</td>
+		<td>NIL</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Izzar Nabi</td>
+		<td>$934</td>
+		<td>12-10-2016</td>
+		<td>NIL</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>Hassim Moor</td>
+		<td>$764</td>
+		<td>12-10-2016</td>
+		<td>NIL</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Hussain Jaid</td>
+		<td>$856</td>
+		<td>12-10-2016</td>
+		<td>$256 Overtime(OT) Pay</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>Akbar Hasim</td>
+		<td>$1,105</td>
+		<td>13-10-2016</td>
+		<td>NIL</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>Muhammed Ali</td>
+		<td>$888</td>
+		<td>13-10-2016</td>
+		<td>$188 Overtime(OT) Pay</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>Adam Hitam</td>
+		<td>$852</td>
+		<td>13-10-2016</td>
+		<td>NIL</td>
+		<td><a href="">Download</a></td>
 	</tr>
 </table>
       </div>
