@@ -56,14 +56,38 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <header class="w3-container">
     <a href="#"><img src="img_avatar_g2.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
     <span class="w3-opennav w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
-    <h1><b>Home</b></h1>
+    <h1><b>Contacts</b></h1>
   </header>
-	<div>
-		<h3>MyMatters Homepage</h3>
-		<h3>Collaboration between Employers, Employees, Medical Professionals, MOM</h3>
-		<h3>Check your records</h3>
-		<h3>Dedicated platform for all your information</h3>
-	</div>
+	
+	<div class="w3-row-padding">
+    <div class="w3-third w3-container w3-margin-bottom">
+	    <h3>TWC2</h3>
+      <div class="w3-container w3-white">
+        <p>5001 Beach Road, #09-86</p>
+	<p>Golden Mile Complex</p>
+	<p>Singapore 199588</p>
+	<p>Phone: +65 6247 7001</p>
+	 <p>Email: info@twc2.org.sg</p>
+      </div>
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom">
+     <h3>HealthServe</h3>
+      <div class="w3-container w3-white">
+        <p>info@healthserve.org.sg</p>
+	<p>volunteer@healthserve.org.sg</p>
+	<p>Office Tel: +65 6743 9774</p>
+	<p>Fax: +65 6743 6174</p>
+      </div>
+    </div>
+    <div class="w3-third w3-container">
+      <img src="http://img01.deviantart.net/301e/i/2012/351/b/b/clue___weapons_by_virtualbarata-d5oa62f.jpg" alt="Clue" style="width:60%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p>2 Lorong 17 Geylang</p>
+	<p>Singapore 388534</p>
+	<p>1800-7-977-977 (toll free)</p>
+      </div>
+    </div>
+  </div>
 <!-- End page content -->
 </div>
 
