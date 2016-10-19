@@ -59,7 +59,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h1><b>Home</b></h1>
   </header>
 	<div>
-		<a href="http://ourdisclaimer.com/?i=MyMatters">Disclaimer</a>
+		<iframe src ="http://ourdisclaimer.com/?i=YOUR-WEBSITE-NAME" width="100%" height="4000"></iframe>
 	</div>
 <!-- End page content -->
 </div>
