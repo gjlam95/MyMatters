@@ -83,12 +83,18 @@ table#t01 th {
       <div class="w3-container w3-white">
 <table>
 	<tr>
-		<td ><span style="font-weight:bold">No.</span></td>
-		<td ><span style="font-weight:bold">Name</span></td>
-		<td ><span style="font-weight:bold">Salary</span></td>
-		<td ><span style="font-weight:bold">Date Entered</span></td>
-		<td ><span style="font-weight:bold">Remarks</span></td>
-		<td ><span style="font-weight:bold">Document</span></td>
+		<td><span style="font-weight:bold">Name</span></td>
+		<td><span style="font-weight:bold">Salary</span></td>
+		<td><span style="font-weight:bold">Date Entered</span></td>
+		<td><span style="font-weight:bold">Remarks</span></td>
+		<td><span style="font-weight:bold">Proof</span></td>
+	</tr>
+	<tr>
+		<td>Syed Muhammad</td>
+		<td>$1,234</td>
+		<td>11-10-2016</td>
+		<td>$234 Overtime(OT) Pay</td>
+		<td><a href="">Download</a></td>
 	</tr>
 </table>
       </div>
