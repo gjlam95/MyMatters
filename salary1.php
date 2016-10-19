@@ -56,7 +56,7 @@ table#t01 th {
   <a href="salary1.php" class="w3-padding w3-text-teal">Salary</a>
   <a href="medical1.php" class="w3-padding">Medical Status</a>
   <a href="redress.php" class="w3-padding">Redress Channel</a>
-  <a href="contact.php" class="w3-padding">Contact</a>
+  <a href="contact.php" class="w3-padding">Contacts</a>
   <p><?php
   	if ($_SESSION["in"]) {
   	echo "Welcome " . $prow['name'] . "!, " . "<a href='logout.php'>Logout</a>";
@@ -81,16 +81,7 @@ table#t01 th {
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
       <div class="w3-container w3-white">
-<table>
-	<tr>
-		<td ><span style="font-weight:bold">No.</span></td>
-		<td ><span style="font-weight:bold">Name</span></td>
-		<td ><span style="font-weight:bold">Salary</span></td>
-		<td ><span style="font-weight:bold">Date Entered</span></td>
-		<td ><span style="font-weight:bold">Remarks</span></td>
-		<td ><span style="font-weight:bold">Document</span></td>
-	</tr>
-</table>
+
       </div>
     </div>
   </div>
