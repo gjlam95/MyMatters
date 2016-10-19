@@ -143,8 +143,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h4 class="w3-padding-0"><b>MyMatters</b></h4>
   </div>
   <a href="index.php" class="w3-padding">Home</a>
-  <a href="Code_Login.php" class="w3-padding w3-text-teal">Log In</a>
-  <a href="Code_Score.php" class="w3-padding">Payment</a>
+  <a href="login.php" class="w3-padding w3-text-teal">Log In</a>
   <p><?php
   	if ($_SESSION["in"]) {
   	echo "Welcome " . $prow['name'] . "!, " . "<a href='logout.php'>Logout</a>";
