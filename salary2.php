@@ -72,11 +72,10 @@ table#t01 th {
   <header class="w3-container">
     <a href="#"><img src="img_avatar_g2.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
     <span class="w3-opennav w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
-    <h1><b>Score</b></h1>
+    <h1><b>Salary</b></h1>
   </header>
   
   <div class="w3-row-padding">
-    <div class="w3-third w3-container w3-margin-bottom">
       <div class="w3-container w3-white">
 <table>
 	<tr>
@@ -169,7 +168,6 @@ table#t01 th {
 	</tr>
 </table>
       </div>
-    </div>
   </div>
 
 <!-- End page content -->
