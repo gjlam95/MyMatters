@@ -80,7 +80,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="http://img01.deviantart.net/301e/i/2012/351/b/b/clue___weapons_by_virtualbarata-d5oa62f.jpg" alt="Clue" style="width:60%" class="w3-hover-opacity">
+      <h3>HOME</h3>
       <div class="w3-container w3-white">
         <p>2 Lorong 17 Geylang</p>
 	<p>Singapore 388534</p>
