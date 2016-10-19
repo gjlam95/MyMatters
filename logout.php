@@ -7,6 +7,6 @@ session_destroy();
 ?>
 
 <script type="text/javascript">
-alert("You are logged out!\nThank you for playing Minystery! :)");
+alert("You are logged out!");
 window.location="index.php";
 </script>
