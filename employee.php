@@ -36,8 +36,8 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h4 class="w3-padding-0"><b>MyMatters</b></h4>
   </div>
   <a href="employee.php" class="w3-padding w3-text-teal">Home</a>
-  <a href="salary.php" class="w3-padding">Salary</a>
-  <a href="medical.php" class="w3-padding">Medical Status</a>
+  <a href="salary1.php" class="w3-padding">Salary</a>
+  <a href="medical1.php" class="w3-padding">Medical Status</a>
   <a href="redress.php" class="w3-padding">Redress Channel</a>
   
   <p><?php
