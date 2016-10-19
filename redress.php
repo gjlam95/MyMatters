@@ -59,15 +59,13 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h1><b>Home</b></h1>
   </header>
 
-	<form method='post'>
-  ID: G12345678H
+<form action="URL to form script" method="POST">
+**Confidential**<br><br>
+Redress: <br>
+<textarea name="comments" rows="15" cols="50"></textarea><br><br>
 
-  Comment:<br />
-  <textarea name='comment' id='comment'></textarea><br />
-
-  <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' />
-
-  <input type='submit' value='Submit' />  
+<input type="submit" value="Submit">
+ 
 </form>
 	
 <!-- End page content -->
