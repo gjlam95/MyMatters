@@ -79,6 +79,7 @@ table#t01 th {
       <div class="w3-container w3-white">
 <table>
 	<tr>
+		<td><span style="font-weight:bold">No.</span></td>
 		<td><span style="font-weight:bold">Name</span></td>
 		<td><span style="font-weight:bold">Medical Status</span></td>
 		<td><span style="font-weight:bold">Leave Days Awarded</span></td>
@@ -87,11 +88,93 @@ table#t01 th {
 		<td><span style="font-weight:bold">MC Proof</span></td>
 	</tr>
 	<tr>
+		<td>1</td>
 		<td>Syed Muhammad</td>
 		<td>MC</td>
 		<td>10</td>
 		<td>20-11-2016</td>
 		<td>Broken Finger</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Hassan Ismail</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Isrudin Hakba</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Rusok Seid</td>
+		<td>MC</td>
+		<td>5</td>
+		<td>30-11-2016</td>
+		<td>Fractured Leg</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Izzar Nabi</td>
+		<td>MC</td>
+		<td>2</td>
+		<td>01-12-2016</td>
+		<td>Fever</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>Hassim Moor</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Hussain Jaid</td>
+		<td>MC</td>
+		<td>15</td>
+		<td>15-11-2016</td>
+		<td>Spine Injury (Follow-up on 01-12-2016</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>Akbar Hasim</td>
+		<td>MC</td>
+		<td>2</td>
+		<td>01-12-2016</td>
+		<td>Food Poisoning</td>
+		<td><a href="">Download</a></td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>Muhammed Ali</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>Adam Hitam</td>
+		<td>MC</td>
+		<td>20</td>
+		<td>30-11-2016</td>
+		<td>Hole in hand (Follow-up on 20-12-2016)</td>
 		<td><a href="">Download</a></td>
 	</tr>
 </table>
